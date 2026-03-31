@@ -1,0 +1,73 @@
+Analyzing esp8266_controller_app...                             
+
+warning • The value of the local variable 'invalidConsts' isn't used • fix_colors.dart:69:13 • unused_local_variable
+warning • The value of the local variable 'colors' isn't used • lib/screens/home_screen.dart:215:11 • unused_local_variable
+  error • Invalid constant value • lib/screens/home_screen.dart:252:26 • invalid_constant
+  error • Invalid constant value • lib/screens/home_screen.dart:312:22 • invalid_constant
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/home_screen.dart:357:53 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/home_screen.dart:360:33 • deprecated_member_use
+  error • Invalid constant value • lib/screens/home_screen.dart:377:56 • invalid_constant
+  error • Invalid constant value • lib/screens/home_screen.dart:400:22 • invalid_constant
+  error • Invalid constant value • lib/screens/home_screen.dart:411:22 • invalid_constant
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/home_screen.dart:434:39 • deprecated_member_use
+  error • Invalid constant value • lib/screens/home_screen.dart:441:30 • invalid_constant
+  error • Invalid constant value • lib/screens/home_screen.dart:497:66 • invalid_constant
+  error • Invalid constant value • lib/screens/home_screen.dart:528:34 • invalid_constant
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/home_screen.dart:552:54 • deprecated_member_use
+  error • Invalid constant value • lib/screens/home_screen.dart:562:28 • invalid_constant
+  error • Invalid constant value • lib/screens/home_screen.dart:574:65 • invalid_constant
+  error • Invalid constant value • lib/screens/home_screen.dart:583:30 • invalid_constant
+  error • Invalid constant value • lib/screens/home_screen.dart:606:65 • invalid_constant
+  error • Invalid constant value • lib/screens/home_screen.dart:634:57 • invalid_constant
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/home_screen.dart:664:39 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/home_screen.dart:681:39 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/home_screen.dart:701:47 • deprecated_member_use
+warning • The value of the local variable 'colors' isn't used • lib/screens/home_screen.dart:762:11 • unused_local_variable
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/home_screen.dart:770:33 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/home_screen.dart:775:39 • deprecated_member_use
+  error • Invalid constant value • lib/screens/logs_screen.dart:113:50 • invalid_constant
+  error • The values in a const list literal must be constants • lib/screens/logs_screen.dart:113:50 • non_constant_list_element
+  error • Invalid constant value • lib/screens/logs_screen.dart:122:50 • invalid_constant
+  error • The values in a const list literal must be constants • lib/screens/logs_screen.dart:122:50 • non_constant_list_element
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/logs_screen.dart:147:59 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/logs_screen.dart:171:59 • deprecated_member_use
+  error • Undefined name 'colors' • lib/screens/logs_screen.dart:244:43 • undefined_identifier
+  error • Undefined name 'colors' • lib/screens/logs_screen.dart:252:26 • undefined_identifier
+  error • Undefined name 'colors' • lib/screens/logs_screen.dart:286:31 • undefined_identifier
+  error • Undefined name 'colors' • lib/screens/logs_screen.dart:287:31 • undefined_identifier
+  error • Undefined name 'colors' • lib/screens/logs_screen.dart:292:48 • undefined_identifier
+  error • Undefined name 'colors' • lib/screens/logs_screen.dart:292:65 • undefined_identifier
+  error • Undefined name 'colors' • lib/screens/logs_screen.dart:308:38 • undefined_identifier
+  error • Undefined name 'colors' • lib/screens/logs_screen.dart:318:38 • undefined_identifier
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/logs_screen.dart:335:53 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/logs_screen.dart:336:53 • deprecated_member_use
+  error • Undefined name 'colors' • lib/screens/logs_screen.dart:346:74 • undefined_identifier
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/settings_screen.dart:197:75 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/settings_screen.dart:241:78 • deprecated_member_use
+  error • Invalid constant value • lib/screens/settings_screen.dart:245:58 • invalid_constant
+  error • The values in a const list literal must be constants • lib/screens/settings_screen.dart:245:58 • non_constant_list_element
+  error • Invalid constant value • lib/screens/settings_screen.dart:247:140 • invalid_constant
+  error • The values in a const list literal must be constants • lib/screens/settings_screen.dart:247:140 • non_constant_list_element
+  error • Undefined name 'colors' • lib/screens/settings_screen.dart:294:119 • undefined_identifier
+  error • Undefined name 'colors' • lib/screens/settings_screen.dart:301:40 • undefined_identifier
+  error • Undefined name 'colors' • lib/screens/settings_screen.dart:314:31 • undefined_identifier
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/settings_screen.dart:316:66 • deprecated_member_use
+  error • Undefined name 'colors' • lib/screens/settings_screen.dart:320:158 • undefined_identifier
+  error • Invalid constant value • lib/screens/specs_screen.dart:40:36 • invalid_constant
+  error • The values in a const list literal must be constants • lib/screens/specs_screen.dart:40:36 • non_constant_list_element
+  error • Invalid constant value • lib/screens/specs_screen.dart:51:36 • invalid_constant
+  error • The values in a const list literal must be constants • lib/screens/specs_screen.dart:51:36 • non_constant_list_element
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/specs_screen.dart:83:60 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/specs_screen.dart:84:81 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/specs_screen.dart:88:55 • deprecated_member_use
+  error • Invalid constant value • lib/screens/specs_screen.dart:99:125 • invalid_constant
+  error • The values in a const list literal must be constants • lib/screens/specs_screen.dart:99:125 • non_constant_list_element
+  error • Invalid constant value • lib/screens/specs_screen.dart:103:123 • invalid_constant
+  error • The values in a const list literal must be constants • lib/screens/specs_screen.dart:103:123 • non_constant_list_element
+  error • Undefined name 'colors' • lib/screens/specs_screen.dart:237:132 • undefined_identifier
+  error • Undefined name 'colors' • lib/screens/specs_screen.dart:239:113 • undefined_identifier
+  error • Undefined name 'colors' • lib/screens/specs_screen.dart:241:85 • undefined_identifier
+  error • Undefined name 'colors' • lib/screens/specs_screen.dart:250:40 • undefined_identifier
+  error • Undefined name 'colors' • lib/screens/specs_screen.dart:254:39 • undefined_identifier
+  error • Undefined name 'colors' • lib/screens/specs_screen.dart:256:111 • undefined_identifier
+
